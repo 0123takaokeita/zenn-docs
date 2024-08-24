@@ -8,13 +8,13 @@
 `package.json`があればskip
 
 ```sh
-npm init --yes
+pnpm init --yes
 ```
 
 zenn-cliを導入
 
 ```sh
-npm install zenn-cli
+pnpm install zenn-cli
 ```
 
 zenn用のディレクトリ構成など整備
@@ -27,7 +27,7 @@ npx zenn init
 command version up
 
 ```sh
-npm install zenn-cli@latest
+pnpm install zenn-cli@latest
 ```
 
 ## Usage
